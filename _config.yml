@@ -2,6 +2,7 @@ name: awesome-swift
 favicon: null
 layout_spectrum: 0.4611513623967767
 typography_spectrum: 0.7917201819363981
+title: Curated Swift Resources
 cta:
   domain: null
   bucket: null
